@@ -24,7 +24,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 <br/>
 
 <p align="center">
-  <a target="_blank" href="https://www.oshanjr.com"> <img src="./res/logo_w_bgr.png" alt="upek's logo" title="OJ's Portfolio" style="width: 32px;"/> </a>
+  <a target="_blank" href="https://www.oshanjr.com"> <img src="./res/logo_w_bgr.png" alt="upek's logo" title="OJ's Portfolio" style="width: 512px;"/> </a>
   &nbsp;
   <a target="_blank" href="https://twitter.com/UpekHansaja"> <img src="./res/twitterIcon.svg" alt="upek's Twitter" title="Twitter: @UpekHansaja"/> </a>
   &nbsp;
