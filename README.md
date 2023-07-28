@@ -24,23 +24,23 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 <br/>
 
 <p align="center">
-  <a target="_blank" href="https://www.oshanjr.com"> <img src="./res/logo_w_bgr.png" alt="upek's logo" title="OJ's Portfolio" style="width: 256px;"/> </a>
+  <a target="_blank" href="https://www.oshanjr.com"> <img src="./res/logo_w_bgr.png" alt="OJ's logo" title="OJ's Portfolio" style="width: 256px;"/> </a>
   &nbsp;
-  <a target="_blank" href="https://twitter.com/UpekHansaja"> <img src="./res/twitterIcon.svg" alt="upek's Twitter" title="Twitter: @UpekHansaja"/> </a>
+  <a target="_blank" href="https://twitter.com/oshan_jr"> <img src="./res/twitterIcon.svg" alt="OJ's Twitter" title="Twitter: @oshan_jr"/> </a>
   &nbsp;
-  <a target="_blank" href="https://www.linkedin.com/in/upek-hansaja/"> <img src="./res/linkedin.svg" alt="upek's LinkedIn" title="LinkedIn: upek-hansaja"/> </a>
+  <a target="_blank" href="https://www.linkedin.com/in/oshan-j-r-17b201235/"> <img src="./res/linkedin.svg" alt="upek's LinkedIn" title="LinkedIn: oshan-j-r-17b201235"/> </a>
   &nbsp;
-  <a target="_blank" href="https://www.facebook.com/profile.php?id=100068307769668"> <img src="./res/facebook.svg" alt="upek's Facebook" title="Facebook: Upek Hansaja"/> </a>
+  <a target="_blank" href="https://www.facebook.com/oshan.jr"> <img src="./res/facebook.svg" alt="OJ's Facebook" title="Facebook: oshan.jr"/> </a>
   &nbsp;
-  <a target="_blank" href="https://www.instagram.com/upek_hansaja/"> <img src="./res/instagram.svg" alt="upek's Instagram" title="Instagram: upek_hansaja"/> </a>
+  <a target="_blank" href="https://www.instagram.com/oshanjr/"> <img src="./res/instagram.svg" alt="OJ's Instagram" title="Instagram: oshanjr"/> </a>
   &nbsp;
-  <a target="_blank" href="#"> <img src="./res/youtube.svg" alt="upek's YouTube" title="YouTube: Upek Hansaja"/> </a>
+  <a target="_blank" href="https://www.youtube.com/@oshanjr"> <img src="./res/youtube.svg" alt="OJ's YouTube" title="YouTube: OSHAN JR"/> </a>
   &nbsp;
-  <a target="_blank" href="https://www.tiktok.com/@upek_hansaja"> <img src="./res/tiktok.svg" alt="upek's TikTok" title="TikTok: upek_hansaja"/> </a>
+  <a target="_blank" href="https://www.tiktok.com/@oshanjr"> <img src="./res/tiktok.svg" alt="OJ's TikTok" title="TikTok: @oshanjr"/> </a>
   &nbsp;
-  <a target="_blank" href="https://www.reddit.com/user/Upek_Hansaja"> <img src="./res/redditNew.svg" alt="upek's Reddit" title="Reddit: Upek_Hansaja"/> </a>
+  <a target="_blank" href="https://www.reddit.com/user/oshanjr"> <img src="./res/redditNew.svg" alt="OJ's Reddit" title="Reddit: oshanjr"/> </a>
   &nbsp;
-  <a target="_blank" href="https://www.pinterest.com/upekhansaja/"> <img src="./res/pinterest.svg" alt="upek's Pinterest" title="Pinterset: upekhansaja"/> </a>
+  <a target="_blank" href="https://www.pinterest.com/oshanjr/"> <img src="./res/pinterest.svg" alt="OJ's Pinterest" title="Pinterset: upekhansaja"/> </a>
 </p>
 
 <hr>
