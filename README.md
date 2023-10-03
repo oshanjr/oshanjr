@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0shanjr&label=Profile%20views&color=0e75b6&style=flat" alt="h-a-k-tharaka-hettiarachchi" /> </p>
 ![Header](./res/baner_art.png)
 
 ### Hi there, I'm Oshan J. Rupasinghe 👋
