@@ -109,5 +109,5 @@ On the Backend, I have expertise in PHP and MySQL Database, ensuring seamless da
 <hr>
 
 <p align="center">
-  <img src="res/endingGif.gif" alt="Upek's Github final image" width="600" height="300">
+  <img src="res/endingGif.gif" alt="" width="600" height="300">
 </p>
