@@ -2,33 +2,33 @@ name: Update Intigriti Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every midnight
-  workflow_dispatch: # Allows manual run
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
       
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
           
-      - name: Install Requests
+      - name: Install Dependencies
         run: pip install requests
 
       - name: Run Update Script
         env:
-          INTIGRITI_TOKEN: ${{ secrets.INTIGRITI_TOKEN }}
+          INTIGRITI_CLIENT_ID: ${{ secrets.INTIGRITI_CLIENT_ID }}
+          INTIGRITI_CLIENT_SECRET: ${{ secrets.INTIGRITI_CLIENT_SECRET }}
+          INTIGRITI_REFRESH_TOKEN: ${{ secrets.INTIGRITI_REFRESH_TOKEN }}
         run: python update_intigriti_stats.py
         
-      - name: Commit and Push
+      - name: Commit Changes
         run: |
           git config --global user.name "oshanjr-bot"
           git config --global user.email "oshanjr@users.noreply.github.com"
           git add README.md
-          git commit -m "Updated Intigriti Stats" || exit 0
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated Intigriti Stats" && git push)
