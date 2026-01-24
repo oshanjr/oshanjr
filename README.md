@@ -71,6 +71,24 @@ On the Backend, I have expertise in PHP and MySQL Database, ensuring seamless da
   <a target="_blank" href="https://git-scm.com"> <img src="./res/git.svg" alt="git" title="Git"/> </a>
 </p>
 
+### 🛡️ Bug Bounty & Security Journey:
+
+<p align="center">
+  <a href="https://www.intigriti.com/researcher/profile/oshanjr">
+    <img src="https://img.shields.io/badge/Intigriti-oshanjr-36499B?style=for-the-badge&logo=intigriti&logoColor=white" alt="Intigriti Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Intigriti_Rank-Loading...-36499B?style=for-the-badge&logo=intigriti&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reputation-Loading...-009A74?style=for-the-badge&logo=intigriti&logoColor=white" />
+  <img src="https://img.shields.io/badge/Impact-Loading...-FF6C37?style=for-the-badge&logo=fire&logoColor=white" />
+</p>
+> 🏆 **Latest Achievement:**
+>
+> <img src="https://img.shields.io/badge/Achievement-Profile_Pwner-009A74?style=flat-square&logo=intigriti&logoColor=white" alt="Profile Pwner" /> 
+> *Unlocked: Jan 18, 2026*
+
 <p align="center">
   <a target="_blank" href="https://code.visualstudio.com"> <img src="./res/vscode.svg" alt="vs code" title="Visual Studio Code"/> </a>
   &nbsp;
