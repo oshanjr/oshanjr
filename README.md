@@ -1,121 +1,100 @@
-![Header](./res/baner_art.png)
+<div align="center">
+  <img src="./res/baner_art.png" alt="Oshan's Banner" width="100%">
+  
+  <h1>Hi there, I'm Oshan J. Rupasinghe 👋</h1>
+  <h3>Software Engineering & Cyber Security Undergrad | Full-Stack Developer | Bug Bounty Hunter</h3>
+  <p>📍 Sri Lanka</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oshanjr&label=Profile%20views&color=0e75b6&style=flat" alt="h-a-k-tharaka-hettiarachchi" /> </p>
-
-### Hi there, I'm Oshan J. Rupasinghe 👋
-
-<p>
-I'm a Full-Stack Software Engineering Undergraduate with a passion for Web-Application Development. 
-I specialize in Frontend technologies like HTML, CSS, and JavaScript, creating beautiful and responsive user interfaces. 
-On the Backend, I have expertise in PHP and MySQL Database, ensuring seamless data handling and processing. In addition to Web development, I excel in Cross-Platform Mobile Application Development using React-Native, creating efficient and engaging apps for various platforms. Another area of my expertise lies in Inventory Control System (POS) Desktop Applications Development, where I design intuitive and efficient systems for businesses. As an ethical hacking enthusiast, I've completed various hacking levels and hold certifications from both local and international institutions. My diverse skill set allows me to approach software development with a unique perspective, focusing not only on building robust applications but also on ensuring their security. Welcome to my GitHub portfolio, where you'll find a collection of my projects showcasing my skills and passion for software development. Let's build innovative solutions together!
-
-</p>
-
-<hr>
-
-### Reach me! 💬:
-
-<div style="font-size:14px">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel Free to Reach Me Any Time...
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=oshanjr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
+  
+  <a target="_blank" href="https://www.oshanjr.com"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/oshan-j-r-17b201235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a target="_blank" href="https://twitter.com/oshan_jr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </div>
 
-<br/>
+---
 
-<p align="center">
-  <a target="_blank" href="https://www.oshanjr.com"> <img src="./res/logo_w_bgr.png" alt="OJ's logo" title="OJ's Portfolio" style="width: 256px;"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://twitter.com/oshan_jr"> <img src="./res/twitterIcon.svg" alt="OJ's Twitter" title="Twitter: @oshan_jr"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.linkedin.com/in/oshan-j-r-17b201235/"> <img src="./res/linkedin.svg" alt="upek's LinkedIn" title="LinkedIn: oshan-j-r-17b201235"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.facebook.com/oshan.jr"> <img src="./res/facebook.svg" alt="OJ's Facebook" title="Facebook: oshan.jr"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.instagram.com/oshanjr/"> <img src="./res/instagram.svg" alt="OJ's Instagram" title="Instagram: oshanjr"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.youtube.com/@oshanjr"> <img src="./res/youtube.svg" alt="OJ's YouTube" title="YouTube: OSHAN JR"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.tiktok.com/@oshanjr"> <img src="./res/tiktok.svg" alt="OJ's TikTok" title="TikTok: @oshanjr"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.reddit.com/user/oshanjr"> <img src="./res/redditNew.svg" alt="OJ's Reddit" title="Reddit: oshanjr"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.pinterest.com/oshanjr/"> <img src="./res/pinterest.svg" alt="OJ's Pinterest" title="Pinterset: upekhansaja"/> </a>
-</p>
+### 👨‍💻 About Me
 
-<hr>
+I blend full-stack development with a strong focus on application security. From crafting intuitive user interfaces to securing backend architecture, I approach software development with a unique, security-first perspective. 
 
-### Programming Languages & Tools 💻:
 
-<p align="center">
-  <a target="_blank" href="https://www.w3schools.com/html/html_intro.asp"> <img src="./res/html.svg" alt="html" title="HTML5"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.w3schools.com/css/css_intro.asp"> <img src="./res/css.svg" alt="css" title="CSS3"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.w3schools.com/js/js_intro.asp"> <img src="./res/javascript.svg" alt="JavaScript" title="JavaScript"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://getbootstrap.com"> <img src="./res/bootstrap.svg" alt="Bootstrap" title="Bootstrap"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.php.net"> <img src="./res/php.svg" alt="php" title="PHP"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.mysql.com"> <img src="./res/mysql.svg" alt="mysql" title="MySQL"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://nodejs.org/en"> <img src="./res/nodejs.svg" alt="nodejs" title="Node JS"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://reactnative.dev"> <img src="./res/react-native.svg" alt="react-native" title="React-Native"/> </a>
-  <!-- &nbsp; -->
-  <a target="_blank" href="https://www.mongodb.com"> <img src="./res/mongoDB.svg" alt="mongobd" title="Mongo DB"/> </a>
-  <!-- &nbsp; --> 
-  <a target="_blank" href="https://www.arduino.cc"> <img src="./res/arduino.svg" alt="arduino" title="Arduino"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://git-scm.com"> <img src="./res/git.svg" alt="git" title="Git"/> </a>
-</p>
+- 🛡️ **Cyber Security:** Passionate about ethical hacking and actively hunting on platforms like **Intigriti** and **Bugcrowd**.
+- 💻 **Tech Focus:** Web (PHP, MySQL, NextJs,ReactJs), Mobile (React-Native, Java), Desktop POS systems and AI.
+- 🤝 **Let's connect:** Always open to building innovative, secure solutions together!
 
-### 🛡️ Bug Bounty & Security Journey:
+---
 
-<p align="center">
-  <a href="https://www.intigriti.com/researcher/profile/oshanjr">
-    <img src="https://img.shields.io/badge/Intigriti-oshanjr-36499B?style=for-the-badge&logo=intigriti&logoColor=white" alt="Intigriti Profile" />
-  </a>
-</p>
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Intigriti_Rank-Loading...-36499B?style=for-the-badge&logo=intigriti&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reputation-Loading...-009A74?style=for-the-badge&logo=intigriti&logoColor=white" />
-  <img src="https://img.shields.io/badge/Impact-Loading...-FF6C37?style=for-the-badge&logo=fire&logoColor=white" />
-</p>
-> 🏆 **Latest Achievement:**
->
-> <img src="https://img.shields.io/badge/Achievement-Profile_Pwner-009A74?style=flat-square&logo=intigriti&logoColor=white" alt="Profile Pwner" /> 
-> *Unlocked: Jan 18, 2026*
-
-<p align="center">
-  <a target="_blank" href="https://code.visualstudio.com"> <img src="./res/vscode.svg" alt="vs code" title="Visual Studio Code"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://netbeans.apache.org"> <img src="./res/netbeans.svg" alt="netbeans IDE" title="Apache NetBeans IDE"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://github.com"> <img src="./res/github-light.svg" alt="github" title="GitHub"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.visual-paradigm.com"> <img src="./res/visualParadigm.svg" alt="visual paradigm" title="Visual Paradigm"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.figma.com"> <img src="./res/figma.svg" alt="figma UX UI" title="Figma"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.canva.com"> <img src="./res/canva.svg" alt="canva" title="Canva"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.adobe.com/products/illustrator.html"> <img src="./res/illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.adobe.com/products/photoshop.html"> <img src="./res/photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.blackmagicdesign.com/products/davinciresolve"> <img src="./res/davinciResolve.svg" alt="DaVinci Resolve" title="DaVinci Resolve"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.blender.org"> <img src="./res/blender.svg" alt="Blender" title="Blender"/> </a>
-</p>
-
-<hr>
-
+**Languages & Frameworks**
 <p>
-### Support Me 🤝🫶:
-<img align="right" alt="Support" width="150" src="res/sup.gif"/>
-
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
+**Databases & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+</p>
+
+**Design & Media**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/FL_Studio-F37021?style=for-the-badge&logo=fl-studio&logoColor=white" />
+</p>
+
+---
+
+### 🛡️ Bug Bounty & Security Journey
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <a href="https://www.intigriti.com/researcher/profile/oshanjr">
+          <img src="https://img.shields.io/badge/Intigriti-oshanjr-36499B?style=for-the-badge&logo=intigriti&logoColor=white" alt="Intigriti Profile" />
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Rank-Loading...-36499B?style=flat-square&logo=intigriti&logoColor=white" />
+        <img src="https://img.shields.io/badge/Reputation-Loading...-009A74?style=flat-square&logo=intigriti&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%">
+      <blockquote>
+        🏆 <b>Latest Achievement:</b><br/>
+        <img src="https://img.shields.io/badge/Achievement-Profile_Pwner-009A74?style=flat-square&logo=intigriti&logoColor=white" alt="Profile Pwner" /> <br/>
+        <i>Unlocked: Jan 18, 2026</i>
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oshanjr&show_icons=true&theme=radium&hide_border=true" alt="Oshan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshanjr&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+<div align="center">
+  <h3>Support Me 🤝🫶</h3>
+  <a href="https://www.buymeacoffee.com/oshanjr" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 181px !important;" >
+  </a>
+</div>
