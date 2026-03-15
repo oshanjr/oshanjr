@@ -119,8 +119,6 @@ On the Backend, I have expertise in PHP and MySQL Database, ensuring seamless da
 
 <img align="right" alt="Support" width="150" src="res/sup.gif"/>
 
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/oshanjr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </p>
 
