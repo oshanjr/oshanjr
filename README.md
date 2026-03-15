@@ -114,12 +114,8 @@ On the Backend, I have expertise in PHP and MySQL Database, ensuring seamless da
 <hr>
 
 <p>
-
 ### Support Me 🤝🫶:
-
 <img align="right" alt="Support" width="150" src="res/sup.gif"/>
-
 
 </p>
 
-<hr>
