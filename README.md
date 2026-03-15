@@ -123,7 +123,3 @@ On the Backend, I have expertise in PHP and MySQL Database, ensuring seamless da
 </p>
 
 <hr>
-
-<p align="center">
-  <img src="res/endingGif.gif" alt="" width="600" height="300">
-</p>
